@@ -2,7 +2,6 @@
 <!-- can have readme preview open as well to see how it will appear -->
 <!-- ## this is a sub heading -->
 # Concept:
-
 <!-- - this is a bullet -->
 ## Build out button hover effects with gradient drop shadow
 ---
