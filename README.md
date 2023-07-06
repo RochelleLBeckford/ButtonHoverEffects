@@ -4,7 +4,6 @@
 # Concept:
 <!-- - this is a bullet -->
 ## Build out button hover effects with gradient drop shadow
----
 - [ ]  This app will encompass HTML and CSS
 - [ ]  An interactive, modern and attractive webpage
 ---
